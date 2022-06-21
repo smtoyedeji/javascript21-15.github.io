@@ -9,7 +9,7 @@ Day 15 challenge of 21-days coding challenge
 
 ![Day 15 Challenge](./oh-la-la.jpeg "HTML Canvas")
 
-Project link: [LocalStorage and Event Delegation](https://smtoyedeji.github.io/javascript21-15.github.io/)
+Project link: [LocalStorage and Event Delegation](https://smtoyedeji.github.io/localstorage/)
 
 **Project Challenge**
 * add clear all button
